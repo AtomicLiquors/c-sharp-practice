@@ -1,0 +1,6 @@
+# ignore ALL .log files
+*.meta
+
+# ignore ALL files in ANY directory named temp
+Scenes/
+Tree_Textures/
