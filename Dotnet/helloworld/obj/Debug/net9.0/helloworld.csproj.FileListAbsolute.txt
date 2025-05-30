@@ -1,0 +1,15 @@
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/bin/Debug/net9.0/helloworld
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/bin/Debug/net9.0/helloworld.deps.json
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/bin/Debug/net9.0/helloworld.runtimeconfig.json
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/bin/Debug/net9.0/helloworld.dll
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/bin/Debug/net9.0/helloworld.pdb
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/Debug/net9.0/helloworld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfoInputs.cache
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/Debug/net9.0/helloworld.AssemblyInfo.cs
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/Debug/net9.0/helloworld.csproj.CoreCompileInputs.cache
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/Debug/net9.0/helloworld.sourcelink.json
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/Debug/net9.0/helloworld.dll
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/Debug/net9.0/refint/helloworld.dll
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/Debug/net9.0/helloworld.pdb
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/Debug/net9.0/helloworld.genruntimeconfig.cache
+/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/Debug/net9.0/ref/helloworld.dll
