@@ -1,6 +1,25 @@
 @RestApiProject_HostAddress = http://localhost:5194
+@rootURL = http://localhost:5194
+#http://localhost:5128
 
-GET {{RestApiProject_HostAddress}}/weatherforecast/
+//GET {{RestApiProject_HostAddress}}/weatherforecast/
+GET {{rootURL}}/weatherforecast/
 Accept: application/json
 
 ###
+GET {{rootURL}}/api/books
+Accept: application/json
+
+### 
+POST {{rootURL}}/api/books
+Accept: application/json
+{
+   Id = 4,
+    Title = "Brave New World",
+    Author = "Aldous Huxley",
+    YearPublished = 1932
+}
+
+###
+DELETE {{rootURL}}/api/books/4
+Accept: application/json

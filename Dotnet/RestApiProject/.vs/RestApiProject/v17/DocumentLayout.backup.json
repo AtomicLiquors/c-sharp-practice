@@ -1,10 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Legion\\source\\repos\\RestApiProject\\",
+  "WorkspaceRootPath": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|c:\\users\\legion\\source\\repos\\restapiproject\\restapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|c:\\c-sharp-practice\\dotnet\\restapiproject\\restapiproject\\restapiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\restapiproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|c:\\c-sharp-practice\\dotnet\\restapiproject\\restapiproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|c:\\c-sharp-practice\\dotnet\\restapiproject\\restapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|c:\\c-sharp-practice\\dotnet\\restapiproject\\restapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|c:\\c-sharp-practice\\dotnet\\restapiproject\\restapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|c:\\c-sharp-practice\\dotnet\\restapiproject\\restapiproject\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|c:\\c-sharp-practice\\dotnet\\restapiproject\\restapiproject\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{831F409E-CB9E-4E9A-85F9-22CD788AEE01}|RestApiProject\\RestApiProject.csproj|solutionrelative:restapiproject\\model\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +38,95 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\WeatherForecast.cs",
+              "ToolTip": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\WeatherForecast.cs",
+              "RelativeToolTip": "RestApiProject\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:55:42.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RestApiProject\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RestApiProject\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T13:55:29.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\appsettings.json",
+              "RelativeDocumentMoniker": "RestApiProject\\appsettings.json",
+              "ToolTip": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\appsettings.json",
+              "RelativeToolTip": "RestApiProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-08T13:55:26.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "RestApiProject.http",
+              "DocumentMoniker": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\RestApiProject.http",
+              "RelativeDocumentMoniker": "RestApiProject\\RestApiProject.http",
+              "ToolTip": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\RestApiProject.http*",
+              "RelativeToolTip": "RestApiProject\\RestApiProject.http*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-08T13:51:26Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "RestApiProject\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:26:15.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\Model\\Book.cs",
+              "RelativeDocumentMoniker": "RestApiProject\\Model\\Book.cs",
+              "ToolTip": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\Model\\Book.cs",
+              "RelativeToolTip": "RestApiProject\\Model\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T13:23:47.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Legion\\source\\repos\\RestApiProject\\RestApiProject\\Program.cs",
+              "DocumentMoniker": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\Program.cs",
               "RelativeDocumentMoniker": "RestApiProject\\Program.cs",
-              "ToolTip": "C:\\Users\\Legion\\source\\repos\\RestApiProject\\RestApiProject\\Program.cs",
+              "ToolTip": "C:\\c-sharp-practice\\Dotnet\\RestApiProject\\RestApiProject\\Program.cs",
               "RelativeToolTip": "RestApiProject\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-08T11:45:21.673Z",
               "EditorCaption": ""
