@@ -1,6 +1,9 @@
 ### C# Practice
 C# 관련 내용을 공부하는 저장소.  
 
+https://drive.google.com/file/d/1qiwak9fwl26KwjB_pdBuAyq_IAWpZ56T/view?usp=drive_link  
+https://drive.google.com/file/d/1kzA9Z-A7LfIuz2onQGMt130eWI2wJ3N4/view?usp=drive_link
+
 <br>
 
 ### To-Do
