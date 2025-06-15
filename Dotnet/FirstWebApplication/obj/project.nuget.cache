@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GJBCAjTY2B0=",
+  "success": true,
+  "projectFilePath": "/Users/username000807/desktop/course/c-sharp-practice/Dotnet/FirstWebApplication/FirstWebApplication.csproj",
+  "expectedPackageFiles": [
+    "/Users/username000807/.nuget/packages/microsoft.aspnetcore.openapi/9.0.5/microsoft.aspnetcore.openapi.9.0.5.nupkg.sha512",
+    "/Users/username000807/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

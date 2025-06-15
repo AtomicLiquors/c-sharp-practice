@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/helloworld.csproj": {}
+    "/Users/username000807/desktop/course/c-sharp-practice/Dotnet/helloworld/helloworld.csproj": {}
   },
   "projects": {
-    "/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/helloworld.csproj": {
+    "/Users/username000807/desktop/course/c-sharp-practice/Dotnet/helloworld/helloworld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/helloworld.csproj",
+        "projectUniqueName": "/Users/username000807/desktop/course/c-sharp-practice/Dotnet/helloworld/helloworld.csproj",
         "projectName": "helloworld",
-        "projectPath": "/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/helloworld.csproj",
+        "projectPath": "/Users/username000807/desktop/course/c-sharp-practice/Dotnet/helloworld/helloworld.csproj",
         "packagesPath": "/Users/username000807/.nuget/packages/",
-        "outputPath": "/Users/username000807/Desktop/course/c-sharp-practice/Dotnet/helloworld/obj/",
+        "outputPath": "/Users/username000807/desktop/course/c-sharp-practice/Dotnet/helloworld/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/username000807/.nuget/NuGet/NuGet.Config"
