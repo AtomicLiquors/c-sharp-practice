@@ -1,17 +1,19 @@
 ### C# Practice
 C# 관련 내용을 공부하는 저장소.  
 
+https://drive.google.com/file/d/1qiwak9fwl26KwjB_pdBuAyq_IAWpZ56T/view?usp=drive_link  
+https://drive.google.com/file/d/1kzA9Z-A7LfIuz2onQGMt130eWI2wJ3N4/view?usp=drive_link
+
 <br>
 
 ### To-Do
-과제 테스트 C#으로 풀기  
-백준 브론즈 문제 C#으로 풀기
+- 과제 테스트 C#으로 풀기  
+- 백준 브론즈 문제 C#으로 풀기
 
 
 ## 🔹 1. 기초 문법 및 구조 익히기 (1주)
 
 > 목표: Java 기반으로 C#을 이해하고 코드를 읽을 수 있게 하기
-> 
 
 ### 주제:
 
