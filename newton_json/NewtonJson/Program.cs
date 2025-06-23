@@ -15,5 +15,7 @@ app.UseHttpsRedirection();
 // Register endpoint mappings
 app.MapIndexEndpoint();
 app.MapWeatherForecastEndpoint();
+app.MapPersonEndpoint();
+
 
 app.Run();

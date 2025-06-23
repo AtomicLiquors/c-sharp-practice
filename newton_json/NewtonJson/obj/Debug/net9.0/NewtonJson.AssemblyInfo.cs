@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("NewtonJson")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ebfbf701a7e274aca665995084d65f12cf3e5b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4dc1d5d41cdfedfc393254caf460667b3756c3fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("NewtonJson")]
 [assembly: System.Reflection.AssemblyTitleAttribute("NewtonJson")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
